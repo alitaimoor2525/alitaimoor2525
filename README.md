@@ -16,7 +16,7 @@
 - 🤖 ML Learning Journey — Coming Soon!
 
 ## 📊 GitHub Stats
-![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alitaimoor2525&show_icons=true&theme=dark)
+![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alitaimoor2525&show_icons=true&theme=radical&hide_border=true)
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-taimoor-357427312/)
