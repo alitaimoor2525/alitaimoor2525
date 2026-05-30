@@ -1,8 +1,16 @@
 # Hi there, I'm Ali Taimoor! 👋
-  
+
+🎓 CS Student @ The Superior University, Lahore — 6th Semester
 🤖 Passionate about AI, Machine Learning & Full-Stack Development  
 💻 Building real-world apps with Python, React.js & React Native  
-📍 Lahore, Pakistan  
+📍 Lahore, Pakistan
+
+---
+
+## 🏢 Experience
+
+🏢 **AI Intern @ CodeAlpha** — June 2026
+🏢 **AI Intern @ Hex Softwares Pvt. Ltd.** — June 2026
 
 ---
 
@@ -91,6 +99,14 @@ with dual-role system and file persistence
 
 ---
 
+### 🤖 [ML Learning Journey](https://github.com/alitaimoor2525/ml-learning-journey)
+> Python • Scikit-learn • Pandas • NumPy • Jupyter Notebook
+
+Daily ML practice files — Linear Regression, Logistic Regression,
+Decision Trees, and more — uploading every day 🟩
+
+---
+
 ## 📊 GitHub Stats
 
 ![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alitaimoor2525&show_icons=true&theme=radical&hide_border=true)
@@ -102,10 +118,10 @@ with dual-role system and file persistence
 ## 🎯 Currently
 
 ```text
+🏢 AI Intern @ CodeAlpha & Hex Softwares (June 2026)
 🤖 Deepening expertise in Machine Learning & AI
-📱 Building more full-stack projects
 📂 Uploading ML learning files daily on GitHub
-🔍 Open to internships in AI/ML & Full-Stack Dev
+🔍 Open to more opportunities in AI/ML & Full-Stack Dev
 ```
 
 ---
